@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SEARCH-BOX-IN-REACT/static/css/main.9e3c172d.chunk.css",
-    "main.js": "/SEARCH-BOX-IN-REACT/static/js/main.e4f56883.chunk.js",
-    "main.js.map": "/SEARCH-BOX-IN-REACT/static/js/main.e4f56883.chunk.js.map",
+    "main.js": "/SEARCH-BOX-IN-REACT/static/js/main.70022dca.chunk.js",
+    "main.js.map": "/SEARCH-BOX-IN-REACT/static/js/main.70022dca.chunk.js.map",
     "runtime-main.js": "/SEARCH-BOX-IN-REACT/static/js/runtime-main.2c1c1fd4.js",
     "runtime-main.js.map": "/SEARCH-BOX-IN-REACT/static/js/runtime-main.2c1c1fd4.js.map",
     "static/js/2.fbe3378d.chunk.js": "/SEARCH-BOX-IN-REACT/static/js/2.fbe3378d.chunk.js",
     "static/js/2.fbe3378d.chunk.js.map": "/SEARCH-BOX-IN-REACT/static/js/2.fbe3378d.chunk.js.map",
     "index.html": "/SEARCH-BOX-IN-REACT/index.html",
-    "precache-manifest.36c42fee710bc634ff9497f7b92aaa34.js": "/SEARCH-BOX-IN-REACT/precache-manifest.36c42fee710bc634ff9497f7b92aaa34.js",
+    "precache-manifest.894d3d94406013ad409f30a5df9148e8.js": "/SEARCH-BOX-IN-REACT/precache-manifest.894d3d94406013ad409f30a5df9148e8.js",
     "service-worker.js": "/SEARCH-BOX-IN-REACT/service-worker.js",
     "static/css/main.9e3c172d.chunk.css.map": "/SEARCH-BOX-IN-REACT/static/css/main.9e3c172d.chunk.css.map",
     "static/media/index.css": "/SEARCH-BOX-IN-REACT/static/media/back2.e2af9e71.png",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2c1c1fd4.js",
     "static/js/2.fbe3378d.chunk.js",
     "static/css/main.9e3c172d.chunk.css",
-    "static/js/main.e4f56883.chunk.js"
+    "static/js/main.70022dca.chunk.js"
   ]
 }
